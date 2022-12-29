@@ -8,7 +8,11 @@ public class ConcretDecorator:Decorator
     }
 
 
+<<<<<<< HEAD
     public override  void Operation()
+=======
+    public override void Operation()
+>>>>>>> b40e008be9be5d2d35580faa169b49e353fd5e36
     {
         base.Operation();
         NewFeature();
